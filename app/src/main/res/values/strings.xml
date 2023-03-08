@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">fragment</string>
+    <string name="home">Home</string>
+    <string name="training">Training</string>
+    <string name="sports">Sports</string>
+    <string name="coach">Coach</string>
+    <string name="cricket_coach">Sahil kumbhar</string>
+    <string name="sport">Sport:</string>
+    <string name="cricket">Cricket</string>
+    <string name="coach_tv">Coach:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cricket_title">Cricket</string>
+    <string name="announcement">This is to inform you that all the football team
+    are requested to submit the xerox of certificate to palji</string>
+    <string name="Cricket_details">1.Hitting the ball and running between the wickets and making it to the other end before the fielders can hit the wickets with the ball. \n
+        2.Hitting the ball to the boundary along the ground is 4 runs.\n
+        3.Hitting the ball over the boundary on the full equals 6 runs.\n
+        4.Student who wants to join the cricket team are requested to Register by clicking the button
+    </string>
+    <string name="Football_details">1.Football is played in accordance with a set of rules, known as the Laws of the Game.\n
+    2.The game is played using a single round ball (the football) and two teams of eleven players each compete to get the ball into the other team\'s goal, thereby scoring a goal.\n
+    3.The team that has scored more goals at the end of the game is the winner;\n
+    i.if both teams have scored an equal number of goals, then the game is a draw.\n
+    4.There are exceptions to this rule, however; see Duration and tie-breaking methods below.\n
+    5.Student who wants to join the cricket team are requested to Register by clicking the button.
+    </string>
+    <string name="Badminton_details">
+        1.Badminton is a racquet sport played using racquets to hit a shuttlecock across a net.\n
+        2.Although it may be played with larger teams, the most common forms of the game are singles (with one player per side) and doubles (with two players per side).\n
+        3.Badminton is often played as a casual outdoor activity in a yard or on a beach; formal games are played on a rectangular indoor court.\n
+        4.Points are scored by striking the shuttlecock with the racquet and landing it within the opposing side\'s half of the court.
+        5.Student who wants to join the cricket team are requested to Register by clicking the button.
+    </string>
+    <string name="Athletics_details">
+        1.Athletics is a group of sporting events that involves competitive running, jumping, throwing, and walking.\n
+        2.The most common types of athletics competitions are track and field, road running, cross country running, and racewalking.\n
+        3.The results of racing events are decided by finishing position (or time, where measured), while the jumps and throws are won by the athlete that achieves the highest or furthest measurement from a series of attempts.
+        4.Student who wants to join the cricket team are requested to Register by clicking the button.
+    </string>
+    <string name="register">Register</string>
+</resources>
